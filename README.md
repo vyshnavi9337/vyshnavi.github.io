@@ -1,7 +1,7 @@
 # NELAPATI VYSHNAVI
 
-📧 vyshu0905@gmail.com  
-📞 +91 90147 63825  
+ vyshu0905@gmail.com  
+ +91 90147 63825  
 
 ---
 
@@ -50,6 +50,6 @@ To work in an environment which encourages me to succeed and grow professionally
 
 ---
 
-## ✨ Extracurricular Activities
+##  Extracurricular Activities
 - Poster presentation in DIET College  
 - Volunteer in annual fest, handled event coordination and logistics
